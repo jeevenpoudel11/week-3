@@ -1,0 +1,83 @@
+*{
+
+    color: rgb(115, 253, 138);
+    
+    font-size: 12px;
+    
+    }
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(138, 255, 159);
+    text-align:center;
+    font-size:30px;
+    padding:30px;
+    
+}
+.jiwan{height: 600px;;
+    width: 1500px;
+    border-radius: 10px;
+}
+
+div{
+    width:100%;
+    text-align: center;
+}
+html{
+    scroll-behavior:smooth;
+}
+h2{
+    color: black;
+    font-size: 30px;
+    text-align: left;
+}
+.p1{
+    font-size:20px;
+}
+h3{
+  font-size:  30px;
+  text-align: left;
+color: black;
+}
+.jiw{
+font-size:  20px;
+}
+.p3{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+footer{
+    font-size: 20px;
+}
+.p9{
+    color: aqua;
+    font-size: 40px;
+}
+.lo{
+    font-size: 20px;
+}
+.lo2{
+    font-style:italic;
+    font-size: 20px;
+    color: darkmagenta;
+}
+ul{
+
+    border: 1px solid #ccc;
+    
+    font-size: 12px;
+    
+    }
+#jiwann{
+    border: 1px solid rgb(82, 255, 34);
+
+font-size: 12px;
+}
+Input[type=“text”] {
+
+    font-size: 16px;
+    
+    line-height: 1.2;
+    color:rebeccapurple;
+    }
